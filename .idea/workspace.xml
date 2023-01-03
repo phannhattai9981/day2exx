@@ -4,8 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a29896f-7483-4f67-a3f4-2bcf9a0f03cf" name="Changes" comment="dfff">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="4a29896f-7483-4f67-a3f4-2bcf9a0f03cf" name="Changes" comment="new">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day2bt/Pojo/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day2bt/Pojo/Rectangular.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day2bt/Pojo/Ruler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day2bt/Pojo/Square.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day2bt/Pojo/Compa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day2bt/Pojo/Compa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day2bt/Pojo/CompaIml.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day2bt/Pojo/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day2bt/Pojo/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day2bt/Pojo/StudentService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day2bt/Pojo/StudentServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day2bt/xmlbasedconfiguration/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day2bt/xmlbasedconfiguration/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/helloworld/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/helloworld/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/bt2/beans.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/bt2/beans.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +30,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -22,6 +38,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="SET_USER_NAME_GLOBALLY" value="false" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/java/javabasedconfiguration/Main.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -41,14 +60,86 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.repository.indices&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "E:/hocIT/framework/untitled",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\hocIT\framework\untitled\src\main\resources\baenslifecycle" />
+      <recent name="E:\hocIT\framework\untitled\src\main\resources\bt2" />
+      <recent name="E:\hocIT\framework\untitled\src\main\resources\setter" />
+      <recent name="E:\hocIT\framework\untitled\src\main\resources\dependenyInjection" />
+      <recent name="E:\hocIT\framework\untitled\src\main\resources\autowired" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\hocIT\framework\untitled\src\main\resources\dependenyInjection\setter" />
+      <recent name="E:\hocIT\framework\untitled\src\main\resources\day2btxml" />
+      <recent name="E:\hocIT\framework\untitled\src\main\resources\day2btc2" />
+      <recent name="E:\hocIT\framework\untitled\src\main\resources\xmlbaseconfiguration" />
+      <recent name="E:\hocIT\framework\untitled\src\main\resources\day1" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="annotationbaseconfiguration" />
+      <recent name="autowired" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.day2bt.xmlbasedconfiguration.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="beanlifecycle.Main" />
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="beanlifecycle.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="day2bt.xmlbasedconfiguration.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day2bt.xmlbasedconfiguration.Main" />
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day2bt.xmlbasedconfiguration.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="javabasedconfiguration.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javabasedconfiguration.Main" />
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javabasedconfiguration.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.day2bt.xmlbasedconfiguration.Main" />
+        <item itemvalue="Application.javabasedconfiguration.Main" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -58,10 +149,47 @@
       <option name="presentableId" value="Default" />
       <updated>1671628595606</updated>
     </task>
+    <task id="LOCAL-00001" summary="new">
+      <created>1671797664829</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1671797664829</updated>
+    </task>
+    <task id="LOCAL-00002" summary="new">
+      <created>1672052683432</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1672052683432</updated>
+    </task>
+    <task id="LOCAL-00003" summary="new">
+      <created>1672052841131</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1672052841131</updated>
+    </task>
+    <task id="LOCAL-00004" summary="new">
+      <created>1672053538937</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1672053538937</updated>
+    </task>
+    <task id="LOCAL-00005" summary="new">
+      <created>1672229158033</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1672229158033</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="dfff" />
-    <option name="LAST_COMMIT_MESSAGE" value="dfff" />
+    <MESSAGE value="new" />
+    <option name="LAST_COMMIT_MESSAGE" value="new" />
   </component>
 </project>

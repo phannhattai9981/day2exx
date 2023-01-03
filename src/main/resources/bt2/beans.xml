@@ -4,8 +4,11 @@
        xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
 
     <!-- bean definitions here -->
-    <bean id= "compa" class= "day2bt.Pojo.Compa"/>
-    <bean id = "Student" class = "day2bt.Pojo.Student" autowire="byType">
+    <bean id="circle" class="day2bt.Pojo.Circle"/>
+    <bean id="rectangular" class="day2bt.Pojo.Rectangular"/>
+    <bean id="square" class="day2bt.Pojo.Square"/>
+
+    <bean id="student" class="day2bt.Pojo.Student" autowire="byType">
 
     </bean>
 </beans>

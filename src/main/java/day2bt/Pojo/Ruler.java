@@ -1,5 +1,5 @@
 package day2bt.Pojo;
 
-public interface Compa {
+public interface Ruler {
     public void painting(String name);
 }

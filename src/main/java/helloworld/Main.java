@@ -5,7 +5,7 @@ import org.springframework.context.support.ClassPathXmlApplicationContext;
 
 public class Main {
     public  static  void main (String[] args){
-        ApplicationContext context = new ClassPathXmlApplicationContext("beans.xml");
+        ApplicationContext context = new ClassPathXmlApplicationContext("day1/beans.xml");
         Account acc1 = context.getBean("account1", Account.class);
         Account acc2 = context.getBean("account2", Account.class);
 
